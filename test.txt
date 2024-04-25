@@ -1,2 +1,0 @@
-harjoitus 2 
-test texti
