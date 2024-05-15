@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-color:lightblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  color: blue;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+main {
+  text-align: center;
+}
